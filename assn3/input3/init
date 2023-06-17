@@ -1,0 +1,5 @@
+memory_allocate 16
+fork_and_exec program1
+wait
+memory_write 2
+exit

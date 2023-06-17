@@ -1,0 +1,4 @@
+memory_write 8
+memory_allocate 16
+memory_read 4
+exit

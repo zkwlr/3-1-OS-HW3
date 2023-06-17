@@ -1,0 +1,21 @@
+memory_allocate 16
+memory_read 0
+memory_read 0
+memory_read 0
+memory_read 1
+memory_read 1
+memory_read 1
+memory_read 1
+memory_read 2
+memory_read 2
+memory_read 6
+memory_read 6
+memory_read 6
+memory_read 6
+memory_read 6
+memory_read 6
+memory_allocate 1
+memory_allocate 1
+memory_allocate 1
+memory_allocate 1
+exit

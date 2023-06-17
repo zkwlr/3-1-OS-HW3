@@ -1,0 +1,7 @@
+memory_allocate 16
+memory_allocate 6
+memory_allocate 4
+memory_read 0
+memory_read 16
+memory_release 0
+exit
